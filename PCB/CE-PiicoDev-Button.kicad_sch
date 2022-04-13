@@ -6,8 +6,8 @@
 
   (title_block
     (title "PiicoDev Button")
-    (date "2022-04-01")
-    (rev "00")
+    (date "2022-04-13")
+    (rev "01")
     (company "Core Electronics")
     (comment 1 "Designed by Peter Johnston at")
     (comment 2 "PiicoDev and the PiicoDev logo are trademarks of Core Electronics Pty Ltd.")
@@ -8092,7 +8092,7 @@
     (property "Value" "Conn_01x05_Male" (id 1) (at 75.565 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "CoreElectronics_Components:TestPoint_Pad_D1.0mm_x05" (id 2) (at 74.93 43.18 0)
+    (property "Footprint" "CoreElectronics_Components:TestPoint_Pad_D1.0mm_x05_Pattern1" (id 2) (at 74.93 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 74.93 43.18 0)
@@ -8236,7 +8236,7 @@
       (reference "J2") (unit 1) (value " ") (footprint "CoreElectronics_Components:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
     )
     (path "/98a06312-78d5-435e-b18e-8e15658e8cd7"
-      (reference "J3") (unit 1) (value "Conn_01x05_Male") (footprint "CoreElectronics_Components:TestPoint_Pad_D1.0mm_x05")
+      (reference "J3") (unit 1) (value "Conn_01x05_Male") (footprint "CoreElectronics_Components:TestPoint_Pad_D1.0mm_x05_Pattern1")
     )
     (path "/00000000-0000-0000-0000-000060a08168"
       (reference "JP2") (unit 1) (value "I2C PU") (footprint "CoreElectronics_Components:SolderJumper-3_P1.3mm_Closed_RoundedPad1.0x1.5mm_NumberLabels")
