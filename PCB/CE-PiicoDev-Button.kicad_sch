@@ -6,8 +6,8 @@
 
   (title_block
     (title "PiicoDev Button")
-    (date "2022-06-08")
-    (rev "03")
+    (date "2022-06-20")
+    (rev "10")
     (company "Core Electronics")
     (comment 1 "Designed by Peter Johnston at")
     (comment 2 "PiicoDev and the PiicoDev logo are trademarks of Core Electronics Pty Ltd.")
